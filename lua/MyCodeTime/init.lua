@@ -1,5 +1,5 @@
-local tracker = require("mycodetime.tracker")
-local commands = require("mycodetime.commands")
+local tracker = require("MyCodeTime.tracker")
+local commands = require("MyCodeTime.commands")
 
 -- Start tracking
 tracker.start_tracking()

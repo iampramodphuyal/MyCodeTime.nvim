@@ -1,5 +1,5 @@
 local M = {}
-local tracker = require("mycodetime.tracker")
+local tracker = require("MyCodeTime.tracker")
 
 -- Show stats for today
 function M.show_today_stats()
